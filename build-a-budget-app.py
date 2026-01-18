@@ -100,5 +100,4 @@ if __name__ == "__main__":
     print("\n--- SPEND CHART TEST ---")
     print(create_spend_chart([food, clothing, auto]))
 
-** end of main.py **
 
