@@ -1,3 +1,5 @@
+[![Python application](https://github.com/jamscorpent-ux/fcc-budget-app-python/actions/workflows/python-app.yml/badge.svg)](https://github.com/jamscorpent-ux/fcc-budget-app-python/actions/workflows/python-app.yml)
+
 # Budget App (Scientific Computing with Python)
 
 This project is a budget management application built with Python as part of the **freeCodeCamp** curriculum. It demonstrates core concepts of Object-Oriented Programming (OOP), string formatting, and data visualization.
